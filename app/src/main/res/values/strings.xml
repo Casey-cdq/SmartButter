@@ -1,0 +1,11 @@
+<resources
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation">
+    <string name="app_name">SmartButter</string>
+    <string name="butter">服务管家</string>
+    <string name="wechat">微信精选</string>
+    <string name="girl">美女社区</string>
+    <string name="user">个人中心</string>
+    <string name="text_setting">设置</string>
+    <string name="text_now_login">正在登陆</string>
+</resources>
